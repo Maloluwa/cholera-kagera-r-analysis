@@ -45,7 +45,7 @@ The raw dataset contained 542 records with duplicates, inconsistent formatting, 
 | Case Fatality Rate (CFR) | 3.8% |
 | Overall Attack Rate | 0.0039 per 1,000 population |
 
-A CFR of 3.8% indicates a **moderately severe outbreak** — approximately 4 deaths per 100 infections — possibly reflecting delayed treatment or limited healthcare access in some districts.
+A CFR of 3.8% indicates a **moderately severe outbreak** approximately 4 deaths per 100 infections possibly reflecting delayed treatment or limited healthcare access in some districts.
 
 ---
 
@@ -107,12 +107,13 @@ A CFR of 3.8% indicates a **moderately severe outbreak** — approximately 4 dea
 ## 💡 Recommendations
 
 **Public Health Interventions:**
-1. **Prioritise Bukoba** for immediate resource allocation — highest cases and attack rate
-2. **Investigate Karagwe's high CFR** (6.7%) — possible delays in care or reporting gaps
+1. **Prioritise Bukoba** for immediate resource allocation (highest cases and attack rate)
+2. **Investigate Karagwe's high CFR** (6.7%) possible delays in care or reporting gaps
 3. **Target well and river water users** with household water treatment education and safe storage campaigns
 4. **Develop gender and age-targeted interventions** for males aged 15–59, the most affected group
 
 **Clinical & Systems Strengthening:**
+
 5. **Train healthcare workers** on cholera case management and infection control protocols
 6. **Strengthen referral systems** to ensure severe cases reach facilities in time
 7. **Intensify response during peak transmission windows** (June–July) based on the epidemic curve
